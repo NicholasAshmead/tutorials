@@ -1,2 +1,1 @@
-import fizzbuzz
-fizzbuzz.fizzBuzz(100)
+import fizzbuzz; fizzbuzz.fizzBuzz(100)
