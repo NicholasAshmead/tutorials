@@ -19,12 +19,11 @@ d. {f,g,h}
 4. (done)
 
 5.
-a. A and B have the same elements in them as B and A. The order of the sets does not matter, just as it doesnt matter whether you do 5+2 or 2+5.
+a. A and B have the same elements in them as B and A. The order of the sets does not matter, just as it doesnt matter whether you do 5+2 or 2+5. It can be considered such that taking a set of numbers {1,2,3,4,5} and another set of numbers {3,4,5,6,7}. But considering all of the numbers in the sets, no matter what set you look at first, there can not be a number that is in both sets when compared from one set, but not in both sets when looked at another, since the sets are static.
 b. The items that are in both A and B are the same as the items in B and A. {3,5,6} and {5,3,9} have an intersection of {5,6} no matter what way they are ordered.
 
 6.
-a. if you take a set 'a', and remove all elements from it which are also in 'b', then that is equivalent to the set with contains all elements that are in set a, and are not in set set b.
-b. A intersection not B is equal to all the elements that are in A but not in b. A intersection B is equal to all the elements that are in A and are also in B. Combined, these are all the elements in A.
+a. if you take a set 'a', and remove all elements from it which are also in 'b', that is equivalent to the set with contains all elements that are in set a, and are not in set set b, since in both all the items from set b are not present, and the remaining items that are in set a are present.
 
 7.
 a. {4,6}
@@ -38,7 +37,7 @@ a,b,c. see images
 9.{2,5}
 
 10.
-where hashtags,
+where hashtags, there is the symmetrical difference. The symetrical difference is equal to xor.
   --------------
   [###[    ]###]
 A [###[    ]###] B
