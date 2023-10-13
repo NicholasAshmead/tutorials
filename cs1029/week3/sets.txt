@@ -24,6 +24,7 @@ b. The items that are in both A and B are the same as the items in B and A. {3,5
 
 6.
 a. if you take a set 'a', and remove all elements from it which are also in 'b', that is equivalent to the set with contains all elements that are in set a, and are not in set set b, since in both all the items from set b are not present, and the remaining items that are in set a are present.
+b. A intersection not B is equal to all the elements that are in A but not in b. A intersection B is equal to all the elements that are in A and are also in B. Combined, these are all the elements in A. Essentially, the section of A that does not overlap with B plus the section of A that does overlap with B combined form the entirety of set A.
 
 7.
 a. {4,6}
