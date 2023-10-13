@@ -1,13 +1,67 @@
 1.
-a.  Students who live within a mile of the school or walk to classes
-b. students who live within a mile of the school and walk to classes
+a. Students who live within a mile of the school or walk to classes.
+b. Students who live within a mile of the school and walk to classes.
+c. Students who live within a mile of the school but do not walk to classes.
+d. Students who walk to classes, but do not live within a mile of school.
 
 2.
 a. {0,1,2,3,4,5,6}
 b. {3}
+c. {1,2,4,5}
+d. {0,6}
 
 3.
 a. {a,b,c,d,e,f,g,h}
 b. {a,b,c,d,e}
+c. {}
+d. {f,g,h}
 
-4. 
+4. (done)
+
+5.
+a. A and B have the same elements in them as B and A. The order of the sets does not matter, just as it doesnt matter whether you do 5+2 or 2+5.
+b. The items that are in both A and B are the same as the items in B and A. {3,5,6} and {5,3,9} have an intersection of {5,6} no matter what way they are ordered.
+
+6.
+a. if you take a set 'a', and remove all elements from it which are also in 'b', then that is equivalent to the set with contains all elements that are in set a, and are not in set set b.
+b. A intersection not B is equal to all the elements that are in A but not in b. A intersection B is equal to all the elements that are in A and are also in B. Combined, these are all the elements in A.
+
+7.
+a. {4,6}
+b. {0,1,2,3,4,5,6,7,8,9,10}
+c. {4,5,6,8,10}
+d. {4,6}
+
+8.
+a,b,c. see images
+
+9.{2,5}
+
+10.
+where hashtags,
+  --------------
+  [###[    ]###]
+A [###[    ]###] B
+  [###[    ]###]
+  --------------
+
+11. A XOR B is equal to the symmetrical difference. therefore it is !A U !B, items in A and B that are not in the intersection.
+Therefore it is equal to all the items in A and B minus the intersection.
+
+12.
+a. {3.a,3.b,1.c,4.d}
+b. {2.a,2.b}
+c. {1.a,1.c}
+d. {1.b,4.d}
+e. {5.a,5.b,1.c,4.d}
+
+13. (done)
+
+14.
+a. {...-2,-1,0,1,2,...i}
+b. {...-2,-1,0,1}
+
+15. (with given code)
+list - 40.92746595900098s
+set  -  0.0008992500s
+thats over 45 million times faster.
