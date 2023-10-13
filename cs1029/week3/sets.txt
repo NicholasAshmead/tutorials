@@ -1,0 +1,13 @@
+1.
+a.  Students who live within a mile of the school or walk to classes
+b. students who live within a mile of the school and walk to classes
+
+2.
+a. {0,1,2,3,4,5,6}
+b. {3}
+
+3.
+a. {a,b,c,d,e,f,g,h}
+b. {a,b,c,d,e}
+
+4. 
