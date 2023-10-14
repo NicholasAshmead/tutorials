@@ -15,12 +15,3 @@ print(f"""
 The circumference of the circle with radius {radius} is {circumference}
 The area of this circle is {area}
 """)
-
-import math
-
-c = 2 * 4 * math.pi
-varName = 30
-a = 4 * 3
-b = 4 ** 2 
-print(a)
-print(f"Hello! {a}")

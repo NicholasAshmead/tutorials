@@ -1,8 +1,7 @@
 while True:
     year = input("Enter a year\n> ")
     try:
-        year = int(year)
-        break
+        year = int(year); break
     except:
         print("You need to enter an year as a number")
 

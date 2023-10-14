@@ -1,24 +1,21 @@
 while True:
     number1 = input("Enter a number\n> ")
     try:
-        number1 = float(number1)
-        break
+        number1 = float(number1); break
     except:
         print("You need to enter an integer or float")
 
 while True:
     number2 = input("Enter another number\n> ")
     try:
-        number2 = float(number2)
-        break
+        number2 = float(number2); break
     except:
         print("You need to enter an integer or float")
 
 while True:
     number3 = input("Enter a third number\n> ")
     try:
-        number3 = float(number3)
-        break
+        number3 = float(number3); break
     except:
         print("You need to enter an integer or float")
 
