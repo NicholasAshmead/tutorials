@@ -1,0 +1,120 @@
+1.
+a. f(x) = 1/x --- if x = 0, there is no solution
+b. f(x) = sqrt(x) --- if x is negative, there is no solution
+c. f(x) = -+sqrt(x^2 +1) --- there is always two possible values of f(x)
+
+2.
+a. one to many - so not function
+b. function
+c. not defined at n=-+2, not a function
+
+3. domain, range
+a. {0,1,2,...} {0,1,2,3,...,9}
+b. {1,2,3,4,...} {2,3,4,...}
+c. {all bit strings} {0,1,2,...}
+d. {all bit strings} {0,1,2,3,4}
+e. {1,2,3,...}*{1,2,3,...} {1,2,3,...}
+f. {1,2,3,...}*{1,2,3,...} {1,2,3,...}
+
+4.
+a. 1
+b. 2
+c. -1
+d. 0
+e. 2
+f. 3
+g. 0
+h. 2
+
+5.
+a. 1
+b. 0
+c. 0
+d. -1
+e. 3
+f. -1
+g. 2
+h. 1
+
+7.
+def floor(num):
+    return int(num)
+
+def ceil(num): 
+    if num == int(num): return int(num)
+    else: return int(num + 1)
+
+
+8.
+a. 6
+b. 24
+c. 120
+d. 3628800
+
+10.
+a. yes
+b. no, f(a) & f(b) map to b
+c. no, f(a) & f(b) map to d
+
+11.
+a. yes
+b. no, a has no preimage
+c. no, a has no preimage
+
+12.
+a. one to one
+b. not one to one, 1 & -1 have the same image 2
+c. one to one
+d. not one to one, 1 & 2 have the same image 1
+
+13.
+a. onto
+b. not onto, elements in {...,-2,-1,0} have no preimage
+c. not onto, 2 has no preimage
+d. onto
+
+14.
+a. onto
+b. not onto, 2 has no preimage
+c. onto
+d. onto
+e. not onto, 1 has no preimage
+
+15.
+a. one to one
+b. one to one
+c. not one to one, 2 students could have same grades
+d. not one to one, 2 students might live in the same town
+
+16.
+a. codomain is {0 * {0, 1, ..., 9} * ... * {0, 1,..., 9}^12}
+b. codomain is {{1,2,...,9}*{0,1,...,9}^8}
+c. codomain is {x|0≤x≤100}
+d. codomain {Aberdeen, London, Machester,...}
+
+17.
+a. bijection
+b. not bijection, not onto, {8,9,...} no premiage
+c. not bijection f(-2) not defined
+d. bijection
+
+18.
+a. {1}
+b. {-1,1,5,8,15}
+c. {0,1,2}
+d. {0,1,5,16}
+
+19.
+a. x^2 + 4x + 5
+b. x^2 + 3
+
+20.
+a. x^2 + x + 3
+b. x^3 + 2x^2 + x + 2
+
+21.
+a. {1,-1}
+b. {x|0<x<1} V {-1<x<0}
+c. {x|(x<-2) V (x>2)}
+
+22.
