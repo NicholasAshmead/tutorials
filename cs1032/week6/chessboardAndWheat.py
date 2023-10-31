@@ -7,5 +7,7 @@ def chessboardAndWheat(): #time (s): 0.0955335
 def wheatAndChessboard(): #time (s): 0.0002867
     return 2 ** 64 - 1
 
+# the second method is about 333 times faster than the first method
+
 print(chessboardAndWheat())
 print(wheatAndChessboard())
