@@ -1,0 +1,70 @@
+1. For each relation below:
+• List its ordered pairs and
+• Explain whether or not they are (i) reflexive, (ii) symmetric, (iii) anti-symmetric,and (iv) transitive.
+(a) R = {(x, y)|x ≤ y} defined on the set A = {1, 2, 3, 4, 5}
+(b) R = {(x, y)|x + y is odd} defined on the set A = {1, 2, 3, 4}
+
+(a)
+ordered pairs: (1,1), (1,2), (1,3), (1,4), (1,5), (2,2), (2,3), (2,4), (2,5), (3,3), (3,4), (3,5), (4,4), (4,5), (5,5)
+reflexive, symmetric, antisymmetric, transitive
+
+(b)
+ordered pairs: (1,2), (1,4), (2,1), (2,3), (3,2), (3,4), (4,1), (4,3)
+not reflexive, not symmetric, not antisymmetric, not transitive
+
+Propose means to model the following information with sets:
+• A shopping list
+- model: a set of items
+• Your contacts on your mobile phone
+- model: a set of people
+• Online records of hotels
+- model: a set of hotel records
+
+Given the following sets:
+• A = {10, 30, 50, 70, 90} and
+• B = {5, 6, 7, 8, 9}
+Write down the ordered pairs belonging to the binary relation R = {(x, y)|x ∈
+A, y ∈ B, x/y ∈ N}, where N stands for natural numbers.
+
+ordered pairs: (10, 5), (30, 6), (50, 5), (50, 10), (70, 7), (90, 9)
+
+a | b c
+b | c
+c | b
+
+a | a b c
+b | a b c
+c | a b
+d | d
+
+List the ordered pairs in the relations on A = {1, 2, 3, 4} corresponding to the
+matrices below (where the rows and columns correspond to the integers listed in
+increasing order). Also determine whether the relations are reflexive, symmetric,
+antisymmetric and/or transitive.
+(a)
+1 1 0 1
+1 0 1 0
+0 1 1 1
+1 0 1 1
+
+transitive, symmetric, not reflexive, not antisymmetric
+
+(b)
+0 1 0 1
+1 0 1 0
+0 1 0 1
+1 0 1 0
+
+reflexive, symmetric, antisymmetric, transitive
+
+Represent the directed graph below with a matrix (with the elements listed in the
+order a, b, c, d). Is the resulting relation reflexive?
+
+[
+1,1,1,1
+1,0,0,0
+0,0,0,0
+1,0,1,1
+]
+is not reflexive
+
